@@ -11,7 +11,7 @@ const RealG = () => {
         {/* Game 1 */}
         <div className="game">
           <div className='text1'>
-            <h2>Rights Bingo</h2>
+            <h2>Rights Bingo!</h2>
             <div className="game-content">
               <p>
                 <strong>Materials Needed:</strong> Bingo cards, markers
